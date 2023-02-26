@@ -14,6 +14,6 @@
 
 
 <p align="center">
-BrayanBot servers as base discord.js bot, on which developers can build their own add-ons that users may purchase/install. 
+BrayanBot serves as base discord.js bot, on which developers can build their own add-ons that users may purchase/install. 
   It is *fully customizable* - meaning with add-ons it can be turned into a moderation bot, music bot, ticket bot, and so on! You can enable/disable the features to your liking. 
 </p>
